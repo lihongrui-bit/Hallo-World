@@ -1,5 +1,1 @@
-#include <stdio.g>
-int main()
-{
-	return 0;
-}
+hahahaha
